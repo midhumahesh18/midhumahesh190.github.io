@@ -35,11 +35,15 @@
 	background-repeat: no-repeat;
 }
 #main2{
+	text-align: center;
 	margin-top: 0px;
 	background-image: url(bgp5.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
+}
+#me{
+	color: white;
 }
 #main3{
 	margin-top: 0px;
